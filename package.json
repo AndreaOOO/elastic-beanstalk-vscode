@@ -16,6 +16,7 @@
         "beanstalk",
         "elastic beanstalk"
     ],
+    "publisher": "ZaninAndrea",
     "repository": {
         "url": "https://github.com/AndreaOOO/elastic-beanstalk-vscode",
         "type": "GIT"
