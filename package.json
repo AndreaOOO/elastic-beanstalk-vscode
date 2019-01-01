@@ -6,6 +6,20 @@
     "engines": {
         "vscode": "^1.30.0"
     },
+    "author": {
+        "email": "andrea@igloo.ooo",
+        "name": "Zanin Andrea"
+    },
+    "homepage": "https://github.com/AndreaOOO/elastic-beanstalk-vscode",
+    "keywords": [
+        "AWS",
+        "beanstalk",
+        "elastic beanstalk"
+    ],
+    "repository": {
+        "url": "https://github.com/AndreaOOO/elastic-beanstalk-vscode",
+        "type": "GIT"
+    },
     "categories": [
         "Other"
     ],
