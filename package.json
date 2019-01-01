@@ -10,7 +10,8 @@
         "Other"
     ],
     "activationEvents": [
-        "onCommand:extension.helloWorld"
+        "workspaceContains:**/.elasticbeanstalk",
+        "workspaceContains:**/.ebignore"
     ],
     "main": "./extension.js",
     "contributes": {
