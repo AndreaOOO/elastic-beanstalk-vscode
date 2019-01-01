@@ -41,6 +41,7 @@ function activate(context) {
                 "Elastic Beanstalk Deploy"
             )
             outputChannel.show()
+            outputChannel.appendLine("Deploy began")
 
             ebDeploy.stdout.setEncoding("utf8")
             ebDeploy.stdout.on("data", data => {
